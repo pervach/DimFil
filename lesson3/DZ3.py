@@ -3,7 +3,6 @@ import pandas as pd
 
 #данные посетителей магазина: id, пол, возраст, доход, рейтинг трат
  
-
 # 1. Читаем CSV
 df = pd.read_csv('Mall_Customers.csv')
 
